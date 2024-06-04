@@ -12,21 +12,21 @@ public class matematika {
     
     //method
     public double setpenjumlahan(){
-        return bil1 + bil1;
+        return bil1 + bil2;
     }
     
     //method
     public double setpengurangan(){
-        return bil1 - bil1;
+        return bil1 - bil2;
     }
     
     //method
     public double setperkalian(){
-        return bil1 * bil1;
+        return bil1 * bil2;
     }
     
     //method
-    public double setpembagiaan(){
-        return bil1 / bil1;
+    public double setpembagian(){
+        return bil1 / bil2;
     }
 }
